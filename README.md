@@ -1,2 +1,0 @@
-# gemmashay
-# friends
